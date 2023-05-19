@@ -1,0 +1,7 @@
+{
+  "name": "ContentSecurityPolicyApplication",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
